@@ -2,7 +2,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image/image.dart' as img;
 import 'dart:math';
-import 'services/storage_service.dart';
+import '../services/storage_service.dart';
 import 'package:workmanager/workmanager.dart';
 
 class ImageGenScreen extends StatefulWidget {

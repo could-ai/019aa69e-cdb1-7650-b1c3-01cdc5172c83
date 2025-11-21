@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'services/storage_service.dart';
+import 'storage_service.dart';
 
 class ModelDownloader {
   static Future<void> downloadModels() async {

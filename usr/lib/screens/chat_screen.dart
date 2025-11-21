@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'services/storage_service.dart';
-import 'services/text_inference.dart';
+import '../services/storage_service.dart';
+import '../services/text_inference.dart';
 import 'package:workmanager/workmanager.dart';
 
 class ChatScreen extends StatefulWidget {
